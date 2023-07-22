@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_cli"
+version = "0.0.1"
+authors = [
+    { name="lumin", email="email@email.com"},
+]
+description = "My cli app"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/cli"
+"Bug Tracker" = "https://gihub.com/pypa/cli/issues"
