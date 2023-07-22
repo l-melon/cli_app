@@ -17,5 +17,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/cli"
-"Bug Tracker" = "https://gihub.com/pypa/cli/issues"
+"Homepage" = "https://github.com/l-melon/cli_appi"
+"Bug Tracker" = "https://github.com/l-melon/cli_app/issues"
